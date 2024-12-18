@@ -7,6 +7,8 @@
 :root {
     --index: calc(1vw + 1vh);
     --transition: 1.5s cubic-bezier(.05, .5, 0, 1);
+    --move-x: 0deg;
+    --move-y: 0deg;
 }
 
 @font-face {
